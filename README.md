@@ -20,8 +20,8 @@ This project uses Python and Yahoo Finance API (`yfinance`) to pull historical c
 
 ## 📊 Sample Output
 
-![Normalized Price Comparison](<img width="1008" height="557" alt="Screenshot 2025-07-27 141945" src="https://github.com/user-attachments/assets/e5819751-94cc-4c97-9524-0d7a2824306a" />
-)
+<img width="1008" height="557" alt="Screenshot 2025-07-27 141945" src="https://github.com/user-attachments/assets/e5819751-94cc-4c97-9524-0d7a2824306a" />
+
 ## Insights
 Gold was more stable during global macro uncertainty, while oil showed higher volatility due to geopolitical events and OPEC+ decisions.
 
