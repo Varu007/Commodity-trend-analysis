@@ -1,4 +1,3 @@
-<img width="1008" height="557" alt="Screenshot 2025-07-27 141945" src="https://github.com/user-attachments/assets/a9536015-bce8-4552-9ead-43ea4cc5b63d" />
 # Commodity-trend-analysis
 This project uses Python and Yahoo Finance API (`yfinance`) to pull historical commodity prices (Gold and Crude Oil), visualize their trends, and compare their normalized price movements over the past year.
 
